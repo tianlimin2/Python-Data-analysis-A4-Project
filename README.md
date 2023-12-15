@@ -87,9 +87,7 @@ MAX -  0.8846153846153846
 
 ### Results and Discussion
 Using GaussianNB, the model achieves an average accuracy of approximately 88%.
-
 In the 5-fold and 10-fold cross-validation, the interval between the minimum and maximum accuracy values is not large, indicating that the model has a certain stability.
-
 Try to create new features or transform existing features to improve the performance of the model. Handle imbalanced data sets through oversampling or undersampling.
 
 
